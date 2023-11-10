@@ -1,8 +1,6 @@
 # portofolio_nada
 This portfolio contains a project from the data science on predicting diamond prices by applying predictive analytics. 
 
-# **PREDICTIVE ANALYTICS**
-
 **A. INTRODUCTION**
 
 According to IBM, predictive analytics is a branch of advanced analytics that makes predictions about future outcomes using historical data combined with statistical modeling, data mining techniques, and machine learning. So, predictive analytics is an applied field that employs various quantitative methods to make predictions using data. Examples of its applications include price prediction, dose prediction, and risk assessment.
