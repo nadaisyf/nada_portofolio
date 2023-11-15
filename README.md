@@ -1,4 +1,4 @@
-# nada_portofolio
+# NADA_PORTOFOLIO
 This portfolio contains a project from the data science on predicting diamond prices by applying predictive analytics. 
 
 **A. INTRODUCTION**
