@@ -1,4 +1,4 @@
-# NADA PORTOFOLIO
+# DIAMOND PRICE PREDICTION
 This portfolio contains a project from the data science on predicting diamond prices by applying predictive analytics. 
 
 **GITHUB PAGE**
