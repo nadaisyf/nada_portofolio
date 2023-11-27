@@ -1,5 +1,9 @@
 # NADA_PORTOFOLIO
 This portfolio contains a project from the data science on predicting diamond prices by applying predictive analytics. 
+## GITHUB PAGE
+
+[![Data-Science-Projects](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://github.com/nadaisyf/nada_portofolio/tree/main/Diamond-Price-Prediction)
+
 
 **A. INTRODUCTION**
 
